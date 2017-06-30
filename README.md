@@ -15,3 +15,6 @@ Code example:
     //use the method disable to terminate the measuring.
     measuringTool.disable();
 ```
+
+## Version support
+This library is compatible with Leaflet since version 0.4.5 up to 1.1.0.
